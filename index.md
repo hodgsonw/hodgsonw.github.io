@@ -1,5 +1,5 @@
 ---
-layout: home 
+layout: languages 
 title: GenARCC
 landing-title: "Please select a language of preference"
 description: "no descrip"
