@@ -7,7 +7,4 @@ image: null
 author: Wilson Hodgson
 show_tile: false
 ---
-
-[English](en/)
-
-[Français](fr/)
+[English](en/) [Français](fr/)
