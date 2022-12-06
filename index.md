@@ -7,7 +7,6 @@ image: null
 author: Wilson Hodgson
 show_tile: false
 ---
-#image: assets/images/alberta-2297204.jpg
 
 [English](en/)
 
