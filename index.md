@@ -1,7 +1,7 @@
 ---
 layout: languages 
 title: GenARCC
-landing-title: "Please select a language of preference"
+landing-title: "Please select a language"
 description: "no descrip"
 image: null
 author: Wilson Hodgson
